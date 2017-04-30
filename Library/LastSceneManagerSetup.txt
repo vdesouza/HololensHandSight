@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/HololensHandSight.unity
+  isLoaded: 1
+  isActive: 1
